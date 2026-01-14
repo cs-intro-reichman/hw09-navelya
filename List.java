@@ -12,7 +12,7 @@ public class List {
     private int size;
 	
     /** Constructs an empty list. */
-    public List() {
+    public List() { 
         first = null;
         size = 0;
     }
